@@ -38,7 +38,7 @@ A simple and beautiful weather app that shows the current temperature, weather c
    cd weather-app
    
 
-# 🗂️ Folder Structure
+🗂️ Folder Structure
 
 weather-app/
 ├── index.html         # Main HTML file
